@@ -1,0 +1,15 @@
+- 👋 Hi, I’m @ByeMC
+- 👀 I’m interested in making games and stupid projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 How to reach me:
+  - Via [Reddit](https://reddit.com/u/UndercoverStampYT)
+  - Via [E-mail](mailto:byemc@outlook.com)
+  - Via [Facebook](https://facebook.com/ByeMCFB)
+  - Via [Instagram](https://instagram.com/unsttv)
+  - Via [TikTok](https://tiktok.com/@byemc)
+  - ~~Via [Twitter](https://twitter.com/_ByeMC)~~
+  - Via [Twitter 2](https://twitter.com/ByeMCGames)
+  - Via [my Discord server](https://discord.gg/x7xnw244Fb)
+  - Via Discord: ByeMC#0001
+

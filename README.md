@@ -4,12 +4,8 @@
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me:
   - Via [Reddit](https://reddit.com/u/UndercoverStampYT)
-  - Via [E-mail](mailto:byemc@outlook.com)
-  - Via [Facebook](https://facebook.com/ByeMCFB)
-  - Via [Instagram](https://instagram.com/unsttv)
+  - Via [E-mail](mailto:bye@byecorps.com)
   - Via [TikTok](https://tiktok.com/@byemc)
-  - ~~Via [Twitter](https://twitter.com/_ByeMC)~~
-  - Via [Twitter 2](https://twitter.com/ByeMCGames)
+  - Via [Twitter](https://twitter.com/_ByeMC)
   - Via [my Discord server](https://discord.gg/x7xnw244Fb)
-  - Via Discord: ByeMC#0001
 

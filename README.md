@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byemc)](https://github.com/byemc/)
+
 - 👋 Hi, I’m @ByeMC
 - 👀 I’m interested in making games and stupid projects
 - 🌱 I’m currently learning Python

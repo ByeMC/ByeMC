@@ -1,4 +1,4 @@
-[![Bye's GitHub stats](https://github-readme-stats.vercel.app/api?username=byemc)](https://github.com/byemc/)
+[![Bye's GitHub stats](https://github-readme-stats.vercel.app/api?username=byemc&count_private&show_icons=true)](https://github.com/byemc)
 
 - 👋 Hi, I’m @ByeMC
 - 👀 I’m interested in making games and stupid projects
@@ -11,4 +11,4 @@
   - Via [Twitter](https://twitter.com/_ByeMC)
   - Via [my Discord server](https://discord.gg/x7xnw244Fb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byemc&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byemc&layout=compact&hide=scss,sass,css)](https://github.com/byemc)

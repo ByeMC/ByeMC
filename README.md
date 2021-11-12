@@ -11,4 +11,4 @@
   - Via [Twitter](https://twitter.com/_ByeMC)
   - Via [my Discord server](https://discord.gg/x7xnw244Fb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byemc&layout=compact&hide=scss,sass,css)](https://github.com/byemc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byemc&layout=compact&hide=scss,sass,css,html)](https://github.com/byemc)

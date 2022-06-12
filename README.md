@@ -12,3 +12,5 @@
   - Via [my Discord server](https://discord.gg/x7xnw244Fb)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byemc&layout=compact&hide=scss,sass,css,html)](https://github.com/byemc)
+
+<small>(i edited this on an iPhone, please help)</small>

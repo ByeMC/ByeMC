@@ -11,7 +11,7 @@
   - Via [Twitter](https://twitter.com/_ByeMC)
   - Via [my Discord server](https://discord.gg/x7xnw244Fb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byemc&layout=compact&hide=scss,sass,css,html)](https://github.com/byemc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byemc&layout=compact&hide=scss,sass)](https://github.com/byemc)
 [![bye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bye)](https://bye.omg.lol)
 
 <small>(i edited this on an iPhone, please help)</small>

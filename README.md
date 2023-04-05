@@ -5,6 +5,6 @@
   - Via [E-mail](mailto:bye@byecorps.com)
   - Via [Mastodon](https://social.lol/@bye)
 
-Proof for proven.lol: https://proven.lol//95a719 
+Proof for proven.lol: https://proven.lol/95a719 
 
 [![bye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bye)](https://bye.omg.lol)

@@ -1,10 +1,5 @@
-[![Bye's GitHub stats](https://github-readme-stats.vercel.app/api?username=byemc&count_private&show_icons=true)](https://github.com/byemc)
 
-- 👋 Hi, I’m @ByeMC
-- 📫 How to reach me:
-  - Via [E-mail](mailto:bye@byecorps.com)
-  - Via [Mastodon](https://social.lol/@bye)
+# byemc
 
-Proof for proven.lol: https://proven.lol/95a719 
-
-[![bye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bye)](https://bye.omg.lol)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/byemc?style=flat&logo=github&label=GitHub%20Sponsors&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fbyemc)
+![Liberapay receiving](https://img.shields.io/liberapay/receives/bye?logo=liberapay&link=https%3A%2F%2Fliberapay.com%2Fbye)
